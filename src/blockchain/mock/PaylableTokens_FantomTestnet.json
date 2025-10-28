@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Ethereum",
+        "symbol": "ETH",
+        "icon": "https://d33wubrfki0l68.cloudfront.net/fcd4ecd90386aeb50a235ddc4f0063cfbb8a7b66/4295e/static/bfc04ac72981166c740b189463e1f74c/40129/eth-diamond-black-white.jpg",
+        "decimals": 18,
+        "address": "0x0000000000000000000000000000000000000000",
+        "coingeckoid": "ethereum"
+    },
+    {
+        "name": "Usdt",
+        "symbol": "USDT",
+        "icon": "https://icons.iconarchive.com/icons/cjdowner/cryptocurrency-flat/256/Tether-USDT-icon.png",
+        "decimals": 6,
+        "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+        "coingeckoid": "tether"
+    }
+]
